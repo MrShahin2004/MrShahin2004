@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.tenor.com/m/WE27N4T0xZIAAAAd/watch-dogs-aiden-pearce.gif" alt="Aiden Pearce from Watch Dogs" width="100%">
+</div>
+
 ## Hi there 👋
 
 **MrShahin2004/MrShahin2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

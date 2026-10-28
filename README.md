@@ -3,4 +3,4 @@
 </div>
 
 <h1 align="center">Eyyyyyyyyyy, what's up? :D</h1>
-<span>I'm Shahin, a 22 year old junior frontend developer from Iran. <img src="./Iran-flag.jpeg" alt="Flag of Iran" width="20"></span>
+<span>I'm Shahin, a 22 year old junior frontend developer from Iran. <img src="./Iran-flag.jpeg" alt="Flag of Iran" width="25"></span>
